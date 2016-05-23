@@ -1,0 +1,51 @@
+# editor temp files
+*.swp
+
+# LibreOffice lockfiles
+.~lock.*#
+
+## Java
+*.class
+*.war
+*.ear
+hs_err_pid*
+
+## Gradle
+.gradle
+gradle-app.setting
+.gradletasknamecache
+build/
+
+## OS Specific
+.DS_Store
+
+## Eclipse
+.classpath
+.project
+.metadata
+**/bin/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.externalToolBuilders/
+*.launch
+
+## Fichiers d'output
+output*
+
+## Fichier de test.ods
+test.ods
+L2bio
+L2bio2.ods
+input_l2_bio.ods
+
+## Tmp dir content
+tmp/*
+
+## Fichiers de récupération
+
+*~
