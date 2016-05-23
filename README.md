@@ -1,12 +1,9 @@
-Projet long de génie logiciel du Master 1 informatique de l'université de Luminy.
+TER du Master 1 informatique de l'université de Luminy.
 
 Sujet : QCM Mix
 
-Équipe : EasyProg
+Auteur : Mehdi SNAOUI
 
-Membres : Victor Grousset, Simon Lejal, Luc Giffon, Dioulde Sall, Gabriel Ladet, Manel M'sili
-
-Durée : 8 semaines
 
 
 # dépendances
